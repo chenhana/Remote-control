@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteCtrl", "RemoteCtrl\RemoteCtrl.vcxproj", "{47113174-1CA4-4702-BA42-747E2AD5F91D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteClient", "RemoteClient\RemoteClient.vcxproj", "{B28AAF16-7648-4593-9539-B32C3E6F1B44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C25FC72F-CB38-4E3E-9053-CAB0D4F2DCB9}"
+	ProjectSection(SolutionItems) = preProject
+		远程控制系统设计.uml = 远程控制系统设计.uml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47113174-1CA4-4702-BA42-747E2AD5F91D}.Debug|x64.ActiveCfg = Debug|x64
+		{47113174-1CA4-4702-BA42-747E2AD5F91D}.Debug|x64.Build.0 = Debug|x64
+		{47113174-1CA4-4702-BA42-747E2AD5F91D}.Debug|x86.ActiveCfg = Debug|Win32
+		{47113174-1CA4-4702-BA42-747E2AD5F91D}.Debug|x86.Build.0 = Debug|Win32
+		{47113174-1CA4-4702-BA42-747E2AD5F91D}.Release|x64.ActiveCfg = Release|x64
+		{47113174-1CA4-4702-BA42-747E2AD5F91D}.Release|x64.Build.0 = Release|x64
+		{47113174-1CA4-4702-BA42-747E2AD5F91D}.Release|x86.ActiveCfg = Release|Win32
+		{47113174-1CA4-4702-BA42-747E2AD5F91D}.Release|x86.Build.0 = Release|Win32
+		{B28AAF16-7648-4593-9539-B32C3E6F1B44}.Debug|x64.ActiveCfg = Debug|x64
+		{B28AAF16-7648-4593-9539-B32C3E6F1B44}.Debug|x64.Build.0 = Debug|x64
+		{B28AAF16-7648-4593-9539-B32C3E6F1B44}.Debug|x86.ActiveCfg = Debug|Win32
+		{B28AAF16-7648-4593-9539-B32C3E6F1B44}.Debug|x86.Build.0 = Debug|Win32
+		{B28AAF16-7648-4593-9539-B32C3E6F1B44}.Release|x64.ActiveCfg = Release|x64
+		{B28AAF16-7648-4593-9539-B32C3E6F1B44}.Release|x64.Build.0 = Release|x64
+		{B28AAF16-7648-4593-9539-B32C3E6F1B44}.Release|x86.ActiveCfg = Release|Win32
+		{B28AAF16-7648-4593-9539-B32C3E6F1B44}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0476E763-8EBA-421A-978A-7D1071BC8E43}
+	EndGlobalSection
+EndGlobal

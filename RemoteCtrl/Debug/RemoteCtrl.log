@@ -1,0 +1,5 @@
+﻿  RemoteCtrl.cpp
+f:\appdata\vs2017\cproject\remotectrl\remotectrl\serversocket.h(64): warning C4101: “client_adr”: 未引用的局部变量
+f:\appdata\vs2017\cproject\remotectrl\remotectrl\edoyunthread.h(66): warning C4806: “==”: 不安全操作: 从类型“bool”提升到类型“long”的值不能等于给定的常量
+f:\appdata\vs2017\cproject\remotectrl\remotectrl\remotectrl.cpp(181): warning C4551: 缺少参数列表的函数调用
+  RemoteCtrl.vcxproj -> F:\APPData\vs2017\cproject\RemoteCtrl\Debug\RemoteCtrl.exe

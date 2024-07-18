@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  ClientController.cpp
+  ClientSocket.cpp
+  EdoyunTool.cpp
+  RemoteClient.cpp
+  RemoteClientDlg.cpp
+  StatusDlg.cpp
+  WatchDialog.cpp
+  正在生成代码...
+f:\appdata\vs2017\cproject\remotectrl\remoteclient\watchdialog.cpp(113): warning C4715: “CWatchDialog::OnSendPacketAck”: 不是所有的控件路径都返回值
+  RemoteClient.vcxproj -> F:\APPData\vs2017\cproject\RemoteCtrl\Debug\RemoteClient.exe
