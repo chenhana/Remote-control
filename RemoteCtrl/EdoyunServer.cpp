@@ -17,6 +17,7 @@ int AcceptOverlapped<op>::AcceptWorker() {
 	INT lLength = 0, rLength = 0;
 	if (m_client->GetBufferSize()> 0) {
 		sockaddr* plocal = NULL, *premote = NULL;
+		//GetAcceptExSockaddrs 函数是在 Windows 平台下用于从接收缓冲区中提取 AcceptEx 函数使用的本地地址和远程地址的函数
 		GetAcceptExSockaddrs(*m_client, 0, sizeof(sockaddr_in) + 16, sizeof(sockaddr_in) + 16,
 			(sockaddr**)&plocal, &lLength, // 本地地址
 			(sockaddr**)&premote, &rLength); // 远程地址

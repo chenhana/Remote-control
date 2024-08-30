@@ -1,0 +1,17 @@
+/Debug
+/RemoteCtrl/Debug
+/RemoteCtrl/vld_x86.pdb
+/RemoteCtrl/vld_x86.dll
+/RemoteCtrl/RemoteCtrl.vcxproj
+/RemoteCtrl/RemoteCtrl.vcxproj.filters
+/RemoteCtrl/RemoteCtrl.vcxproj.user
+/RemoteCtrl/Microsoft.DTfW.DHL.manifest
+/RemoteCtrl/RemoteCtrl.aps
+/RemoteClient/RemoteClient.vcxproj
+/RemoteClient/RemoteClient.vcxproj.filters
+/RemoteClient/RemoteClient.vcxproj.user
+/RemoteClient/Debug
+/RemoteClient/res
+/RemoteClient/RemoteClient.aps
+/RemoteClient/RemoteClient.rc
+/.vs
